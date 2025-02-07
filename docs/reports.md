@@ -13,14 +13,20 @@
     - 25 негативных.
 
 ## Процент успешности тест-кейсов
-![image](https://github.com/user-attachments/assets/ed0f83d4-d365-414c-81c5-1c01bc2f97a4)
+
+![Info](https://github.com/user-attachments/assets/38915794-ceff-4e65-ae32-041b032bff86)
+![info2](https://github.com/user-attachments/assets/dc69f399-a6d2-4d99-8b68-5764ded2d329)
 
 Успешные тесты: 48%
-![image](https://github.com/user-attachments/assets/7078b690-095d-4d60-a0f0-8d2d01e82deb)
-
 Неуспешные тесты: 51%
 
-![image](https://github.com/user-attachments/assets/efe72a9e-a867-4afc-a225-1a10f36741fb)
+
+
+---
+![tests1](https://github.com/user-attachments/assets/17cc4da3-a462-48f8-90ed-860027556fdf)
+
+![tests2](https://github.com/user-attachments/assets/8f0629ee-6289-4ad3-9ac1-5a5a35f8c7f5)
+
 
 
 ## Общие рекомендации
